@@ -16,7 +16,7 @@ kernel void juliaSetKernel(
     constant JPr &prm [[buffer(0)]],
     uint2 gid [[thread_position_in_grid]])
 {
-    // Map pixel coordinates to the complex plane (range: [-2, 2])
+    // Map shit on complex plane
     float x = ((float(gid.x + prm.ofx) / float(prm.wid)) * 4.0) - 2.0;
     float y = ((float(gid.y + prm.ofy) / float(prm.hgt)) * 4.0) - 2.0;
     
