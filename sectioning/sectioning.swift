@@ -6,7 +6,7 @@ import Foundation
 
 
 /*
- THIS IS MEANT TO CUZ U CANT  RENDER A FULL IMAGE OF 20000 by 20000 IN SWIFT IT SEGMENTS IT THEN U USE SOME OTHER SHIT TO COMBINE IT.
+ THIS IS MEANT TO CUZ U CANT  RENDER A FULL IMAGE OF 20000 by 20000 IN SWIFT IT SEGMENTS IT THEN U USE SOME OTHER  TO COMBINE IT.
  
  These magic numbers define our tile size,
  image dimensions
@@ -88,7 +88,7 @@ guard let fun = lib.makeFunction(name: "juliaSetKernel") else {
 
 /*
 
-PROCCESSS THE WHOLE FACKIN THING
+PROCCESSS THE WHOLE THING
 */
 for ty in stride(from: 0, to: HGT, by: TSZ) {
     for tx in stride(from: 0, to: WDT, by: TSZ) {
