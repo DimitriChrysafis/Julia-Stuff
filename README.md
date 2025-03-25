@@ -11,5 +11,5 @@ https://dimitrichrysafis.github.io/#post/post6.md
 
 ## Watch the YouTube Shorts Zoom in video below
 
-[<img src="https://img.youtube.com/vi/MqJBRySBNvY/maxresdefault.jpg" alt="Watch the video" width="800" height="800">](https://www.youtube.com/watch?v=MqJBRySBNvY)
+[<img src="https://img.youtube.com/vi/MqJBRySBNvY/maxresdefault.jpg" alt="Watch the video" width="1000" height="800">](https://www.youtube.com/watch?v=MqJBRySBNvY)
 
