@@ -14,3 +14,6 @@ https://dimitrichrysafis.github.io/#post/post6.md
     <img src="https://img.youtube.com/vi/MqJBRySBNvY/maxresdefault.jpg" alt="YouTube Video Thumbnail" width="500">
   </a>
 </p>
+
+
+[<img src="https://img.youtube.com/vi/MqJBRySBNvY/maxresdefault.jpg" alt="Watch the video" width="800" height="800">](https://www.youtube.com/watch?v=MqJBRySBNvY)
