@@ -4,3 +4,7 @@
 I am only publishing this to GitHub on public because it's actually pretty cool. if you actually read the code you'd see a few cool things. 
 
 https://dimitrichrysafis.github.io/#post/post6.md  
+
+## Watch the YouTube Shorts Video
+
+[![Watch the video](https://img.youtube.com/vi/MqJBRySBNvY/0.jpg)](https://www.youtube.com/shorts/MqJBRySBNvY)
