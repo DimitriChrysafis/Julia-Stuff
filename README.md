@@ -7,13 +7,4 @@ https://dimitrichrysafis.github.io/#post/post6.md
 
 ## Watch the YouTube Shorts Video
 
-[![Watch the video](https://img.youtube.com/vi/MqJBRySBNvY/0.jpg)](https://www.youtube.com/shorts/MqJBRySBNvY)
-
-<p align="center">
-  <a href="https://www.youtube.com/shorts/MqJBRySBNvY">
-    <img src="https://img.youtube.com/vi/MqJBRySBNvY/maxresdefault.jpg" alt="YouTube Video Thumbnail" width="500">
-  </a>
-</p>
-
-
-[<img src="https://img.youtube.com/vi/MqJBRySBNvY/maxresdefault.jpg" alt="Watch the video" width="800" height="800">](https://www.youtube.com/watch?v=MqJBRySBNvY)
+[<img src="https://img.youtube.com/vi/MqJBRySBNvY/maxresdefault.jpg" alt="Watch the video" width="1000" height="800">](https://www.youtube.com/watch?v=MqJBRySBNvY)
